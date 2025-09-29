@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/FolioSahnoune/static/css/main.6bc9b14e.css",
+    "main.js": "/FolioSahnoune/static/js/main.b0c6c92e.js",
+    "static/css/64.bba8fa55.chunk.css": "/FolioSahnoune/static/css/64.bba8fa55.chunk.css",
+    "static/js/64.1692348f.chunk.js": "/FolioSahnoune/static/js/64.1692348f.chunk.js",
+    "static/css/769.b3cbb36b.chunk.css": "/FolioSahnoune/static/css/769.b3cbb36b.chunk.css",
+    "static/js/769.bda0d7b7.chunk.js": "/FolioSahnoune/static/js/769.bda0d7b7.chunk.js",
+    "static/media/AppFilmLogo.png": "/FolioSahnoune/static/media/AppFilmLogo.639b725a484d16643c52.png",
+    "static/media/py.jpeg": "/FolioSahnoune/static/media/py.18971f71e5dfe38e15f2.jpeg",
+    "static/media/java.jpeg": "/FolioSahnoune/static/media/java.1be6f73b91fe18af62fe.jpeg",
+    "static/media/uml.jpeg": "/FolioSahnoune/static/media/uml.b1e829d661a1cb22c657.jpeg",
+    "static/media/Rt.jpeg": "/FolioSahnoune/static/media/Rt.8c6a81c9ede505ef0158.jpeg",
+    "static/media/DA.jpeg": "/FolioSahnoune/static/media/DA.b66751246b6448932db9.jpeg",
+    "static/media/Montserrat-Regular.ttf": "/FolioSahnoune/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
+    "static/media/rentCar.jpg": "/FolioSahnoune/static/media/rentCar.7aa798cdfd77e53f79bc.jpg",
+    "static/media/OcpLogo1.png": "/FolioSahnoune/static/media/OcpLogo1.f8ba9f079fe9ebf6eb89.png",
+    "static/media/EmsiLogo1.png": "/FolioSahnoune/static/media/EmsiLogo1.f44c9a1077fa44244684.png",
+    "static/media/Agustina.woff": "/FolioSahnoune/static/media/Agustina.eb0c59dda4cc308cba96.woff",
+    "static/media/FssmLogo1.png": "/FolioSahnoune/static/media/FssmLogo1.5d33b1bbda687c43773e.png",
+    "static/media/manOnTable.svg": "/FolioSahnoune/static/media/manOnTable.8f117eb207e57ed8f89d67d595aceb45.svg",
+    "static/media/contactMailDark.svg": "/FolioSahnoune/static/media/contactMailDark.1db650d351729a0f17b4e3104e6a7b7a.svg",
+    "static/media/developerActivity.svg": "/FolioSahnoune/static/media/developerActivity.2c0445cae86f4243433a2f5a22b2c031.svg",
+    "static/media/skill.svg": "/FolioSahnoune/static/media/skill.35a147662ab0a1d15e579690446e0258.svg",
+    "static/media/nextuLogo.webp": "/FolioSahnoune/static/media/nextuLogo.e033dbfa4c58c0a906aa.webp",
+    "index.html": "/FolioSahnoune/index.html",
+    "static/media/talksCardBack.svg": "/FolioSahnoune/static/media/talksCardBack.b000c448d81edea7565d.svg",
+    "main.6bc9b14e.css.map": "/FolioSahnoune/static/css/main.6bc9b14e.css.map",
+    "main.b0c6c92e.js.map": "/FolioSahnoune/static/js/main.b0c6c92e.js.map",
+    "64.bba8fa55.chunk.css.map": "/FolioSahnoune/static/css/64.bba8fa55.chunk.css.map",
+    "64.1692348f.chunk.js.map": "/FolioSahnoune/static/js/64.1692348f.chunk.js.map",
+    "769.b3cbb36b.chunk.css.map": "/FolioSahnoune/static/css/769.b3cbb36b.chunk.css.map",
+    "769.bda0d7b7.chunk.js.map": "/FolioSahnoune/static/js/769.bda0d7b7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6bc9b14e.css",
+    "static/js/main.b0c6c92e.js"
+  ]
+}
