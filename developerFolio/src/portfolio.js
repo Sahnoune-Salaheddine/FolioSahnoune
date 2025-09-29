@@ -254,7 +254,7 @@ const bigProjects = {
       footerLink: [
         {
           name: "Visit GitHub Repository",
-          url: "https://github.com/tonusername/movierecommenderapp"
+          url: "https://github.com/Sahnoune-Salaheddine/RcmdMoviesAML-Filtrage-collaborative"
         }
         //  you can add extra buttons here.
       ]
